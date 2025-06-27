@@ -22,4 +22,8 @@
   <a href="https://github.com/sucj/MegaWalls78-Open">GitHub</a>
   <br>
   <a href="https://space.bilibili.com/386919430/lists?sid=3482643">BiliBili</a>
+
+  <hr>
+  <h2>destru</h2>
+  https://destru.org
 </template>
